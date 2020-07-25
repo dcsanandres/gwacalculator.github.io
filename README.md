@@ -2,16 +2,12 @@
 
 General weighted average calculator built for the modern web.
 
-![GitHub tag](https://img.shields.io/github/tag/illustra/gwa.svg) [![Build Status](https://travis-ci.org/illustra/gwa.svg?branch=master)](https://travis-ci.org/illustra/gwa) [![devDependencies](https://david-dm.org/illustra/gwa/dev-status.svg)](https://david-dm.org/illustra/gwa) [![Greenkeeper badge](https://badges.greenkeeper.io/illustra/gwa.svg)](https://greenkeeper.io/) [![GitHub license](https://img.shields.io/github/license/illustra/gwa.svg)](https://github.com/illustra/gwa/blob/master/LICENSE)
-
 ## Features
 
-* GWA calculation for Philippine Science High School students
-* Support for optional electives for Grade 10 PSHS students
-* Support for defining a custom set of subjects (for college students)
-* Progressive web app **[(can run offline on supported browsers/devices)](http://by.jared.gq/gwaoffline)**
+* GWA calculation for Chinese General Hospital Colleges - College of Medicine 
+* Support for defining a custom set of subjects
+* Progressive web app **[(can run offline on supported browsers/devices)]
 * Night mode (can be automatically enabled at sunset)
-* Cumulative GPA calculation mode (experimental)
 
 ## Building
 
@@ -53,25 +49,7 @@ If you have a suggestion for the calculator, you can either
 - @mourner for [SunCalc](https://github.com/mourner/suncalc)
 - @samthor for [rippleJS](https://github.com/samthor/rippleJS)
 
-## License
-
-```
-pisaygwa: The quick, responsive GWA calculator for PSHS and college students.
-Copyright (C) 2015-2019 Aurel Jared Dantis
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along
-with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+## Special thanks to Sir jaredddantis for sharing his codes.
 ```
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
